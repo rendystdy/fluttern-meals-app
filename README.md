@@ -1,8 +1,12 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+![demo-app](https://github.com/rendystdy/fluttern-meals-app/blob/master/Meals-app.gif)
 
-## Getting Started
+## How to use
+
+- git clone `git@github.com:rendystdy/fluttern-meals-app.git` in the terminal
+- Run `cd fluttern-meals-app`
+- Run flutter run in terminal
 
 This project is a starting point for a Flutter application.
 
